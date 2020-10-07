@@ -1,3 +1,9 @@
+This is a react / docker / kubernetes project done as part of the Udmey course on same by Stephen Grider
+
+
+
+---
+React boilerplate follows...
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
