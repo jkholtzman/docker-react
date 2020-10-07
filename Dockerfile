@@ -8,5 +8,6 @@ COPY . .
 RUN npm run build
     
 FROM nginx
+EXPOSE 80
 COPY --from=0 /app/build /usr/share/nginx/html
 # nginx starts up by default so no CMD needed
